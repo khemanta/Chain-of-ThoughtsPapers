@@ -46,76 +46,80 @@ Check **[Tool use LLMs](https://github.com/xlang-ai/llm-tool-use)** and **[Envir
 
     *Antonia Creswell, Murray Shanahan, Irina Higgins* [[pdf](https://arxiv.org/abs/2205.09712)] 2022.5
 
-11. **On the Advance of Making Language Models Better Reasoners.**
+11.  **TALM: Tool Augmented Language Models.** 
+
+    *Aaron Parisi, Yao Zhao, Noah Fiedel* [[pdf](https://arxiv.org/abs/2205.12255)] 2022.5     
+
+12. **On the Advance of Making Language Models Better Reasoners.**
 
     *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen* [[pdf](https://arxiv.org/abs/2206.02336)] 2022.6
 
-12. **Emergent Abilities of Large Language Models.**
+13. **Emergent Abilities of Large Language Models.**
 
     *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus* [[pdf](https://arxiv.org/abs/2206.07682)] 2022.6
 
-13. **Minerva: Solving Quantitative Reasoning Problems with Language Models.**
+14. **Minerva: Solving Quantitative Reasoning Problems with Language Models.**
 
     *Posted by Ethan Dyer and Guy Gur-Ari, Research Scientists, Google Research, Blueshift Team* [[blog](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)] 2022.6
 
-14. **JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding.**
+15. **JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding.**
 
     *Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang, Cong Liu, Ji-Rong Wen* [[pdf](https://arxiv.org/abs/2206.06315)], [[code](https://github.com/rucaibox/jiuzhang)] 2022.6
 
-15. **A Dataset and Benchmark for Automatically Answering and Generating Machine Learning Final Exams**
+16. **A Dataset and Benchmark for Automatically Answering and Generating Machine Learning Final Exams**
 
     *Sarah Zhang, Reece Shuttleworth, Derek Austin, Yann Hicke, Leonard Tang, Sathwik Karnik, Darnell Granberry, Iddo Drori* [[pdf](https://arxiv.org/abs/2206.05442)] 2022.6
     
-16. **Rationale-Augmented Ensembles in Language Models.**
+17. **Rationale-Augmented Ensembles in Language Models.**
 
     *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou* [[pdf](https://arxiv.org/abs/2207.00747)] 2022.7
 
-17. **Language Model Cascades.**
+18. **Language Model Cascades.**
 
     *David Dohan, Winnie Xu, Aitor Lewkowycz, Jacob Austin, David Bieber, Raphael Gontijo Lopes, Yuhuai Wu, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-dickstein, Kevin Murphy, Charles Sutton* [[pdf](https://arxiv.org/abs/2207.10342)], [[code](https://github.com/google-research/cascades)] 2022.7
 
-18. **Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango.**
+19. **Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango.**
 
     *Aman Madaan, Amir Yazdanbakhsh* [[pdf](https://arxiv.org/abs/2209.07686)] 2022.9
 
-19. **Compositional Semantic Parsing with Large Language Models.**
+20. **Compositional Semantic Parsing with Large Language Models.**
 
     *Andrew Drozdov, Nathanael Schärli, Ekin Akyürek, Nathan Scales, Xinying Song, Xinyun Chen, Olivier Bousquet, Denny Zhou* [[pdf](https://arxiv.org/abs/2209.15003)] 2022.9
 
-20. **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning.**
+21. **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning.**
 
     *Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, Peter Clark, Ashwin Kalyan* [[pdf](https://arxiv.org/abs/2209.14610)] 2022.9
 
-21. **Language Models are Multilingual Chain-of-Thought Reasoners.**
+22. **Language Models are Multilingual Chain-of-Thought Reasoners.**
 
     *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei* [[pdf](https://arxiv.org/abs/2210.03057)], [[code](https://github.com/google-research/url-nlp)] 2022.10
 
-22. **Automatic Chain of Thought Prompting in Large Language Models.**
+23. **Automatic Chain of Thought Prompting in Large Language Models.**
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola* [[pdf](https://arxiv.org/abs/2210.03493)], [[code](https://github.com/amazon-science/auto-cot)] 2022.10
 
 
-23. **Binding Language Models in Symbolic Languages.**
+24. **Binding Language Models in Symbolic Languages.**
 
     *Zhoujun Cheng*, Tianbao Xie*, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu* [[pdf](https://arxiv.org/abs/2210.02875)], [[code](https://github.com/hkunlp/binder)] 2022.10
     
-24. **ReAct: Synergizing Reasoning and Acting in Language Models.**
+25. **ReAct: Synergizing Reasoning and Acting in Language Models.**
 
     *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao* [[pdf](https://arxiv.org/abs/2210.03629)], [[code](https://github.com/ysymyth/ReAct)] 2022.10
 
-25. **Ask Me Anything: A simple strategy for prompting language models.**
+26. **Ask Me Anything: A simple strategy for prompting language models.**
 
     *Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré* [[pdf](https://arxiv.org/abs/2210.02441)], [[code](https://github.com/HazyResearch/ama_prompting)] 2022.10
 
-26. **Language Models of Code are Few-Shot Commonsense Learners.**
+27. **Language Models of Code are Few-Shot Commonsense Learners.**
 
     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig* [[pdf](https://arxiv.org/abs/2210.07128)], [[code](https://github.com/madaan/cocogen)] 2022.10
     
-27. **Large Language Models Can Self-Improve.**
+28. **Large Language Models Can Self-Improve.**
 
     *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han* [[pdf](https://arxiv.org/abs/2210.11610)] 2022.10
     
-28. **Large Language Models are few(1)-shot Table Reasoners.**
+29. **Large Language Models are few(1)-shot Table Reasoners.**
 
     *Wenhu Chen* [[pdf](https://arxiv.org/abs/2210.06710)], [[code](https://github.com/wenhuchen/tablecot)] 2022.10
 
