@@ -48,7 +48,7 @@ Check **[Tool use LLMs](https://github.com/xlang-ai/llm-tool-use)** and **[Envir
 
 11.  **TALM: Tool Augmented Language Models.** 
 
-    *Aaron Parisi, Yao Zhao, Noah Fiedel* [[pdf](https://arxiv.org/abs/2205.12255)] 2022.5     
+     *Aaron Parisi, Yao Zhao, Noah Fiedel* [[pdf](https://arxiv.org/abs/2205.12255)] 2022.5     
 
 12. **On the Advance of Making Language Models Better Reasoners.**
 
